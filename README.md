@@ -38,6 +38,9 @@ I am currently working on django based web applications<br>Looking for new ideas
 
 ![](https://github-profile-trophy.vercel.app/?username=Akshay-G-Dev&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
+## Holopin Badges
+[![An image of @akshay1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshay1)](https://holopin.io/@akshay1)
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
